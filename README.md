@@ -1,4 +1,4 @@
-# cold_email
+# GUIDE
 This is python based cold email automatic sending for your job application.
 
 
@@ -14,4 +14,5 @@ How to use it:
         Click Create
         Google will provide a 16-character code (e.g., abcd efgh ijkl mnop)
 - List your database of company email and company name
+- Change your introduction for your body email
 - Go crazy
